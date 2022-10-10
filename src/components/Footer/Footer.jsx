@@ -26,12 +26,12 @@ const Footer = () => {
             <h5 className="footer__title">Delivery Time</h5>
             <ListGroup className="deliver__time-list">
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Sunday - Thursday</span>
-                <p>10:00am - 11:00pm</p>
+                <span>Sunday - Saturday</span>
+                <p>6:00am - 11:30pm</p>
               </ListGroupItem>
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Friday - Saturday</span>
+                <span>Monday</span>
                 <p>Off day</p>
               </ListGroupItem>
             </ListGroup>
@@ -41,10 +41,10 @@ const Footer = () => {
             <h5 className="footer__title">Contact</h5>
             <ListGroup className="deliver__time-list">
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <p>Location: ZindaBazar, Sylhet-3100, Bangladesh</p>
+                <p>Location: Sector -4/A, Shop no. -3100, Bokaro Steel City</p>
               </ListGroupItem>
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Phone: 01712345678</span>
+                <span>Phone: 8580116716</span>
               </ListGroupItem>
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
